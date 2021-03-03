@@ -8,7 +8,6 @@ In this app is squeeze as much is possible of ReactJS tools (Context(this time m
 Entire data is located in db.json file
 
 NOTE: Unfortunately Json Server fake API does not support nested routes, therefore no request can be send to the server, in our case to project array property of the object part of projects array. However most likely is the same logic i use into Main component, so should not be big deal, there is a work around implemented.
-PS: Would be better if you have an API ready in advance for this task, speaking about Front-end test only.
 
 In case you need inital state data afer you make some changes:
 
